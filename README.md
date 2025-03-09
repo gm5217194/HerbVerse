@@ -1,8 +1,8 @@
 Credits :
-https://sketchfab.com/
+https://sketchfab.com/ \n
 https://bsi.gov.in/
-Collaborators:
-Parth Patil
-Gaurav Mishra
-Vaibhav Nemani
-Padmashri Panda
+Collaborators:n \n
+Parth Patil\n
+Gaurav Mishra\n
+Vaibhav Nemani\n
+Padmashri Panda\n
