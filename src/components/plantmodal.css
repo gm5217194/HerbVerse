@@ -7,25 +7,26 @@
 .DetailedContainerData {
   margin: 20px;
 }
-.DetailedContainerImage{
-    width: 200px;
-    height: auto;
-    border-radius: 10px;
+.DetailedContainerImage {
+  width: 200px;
+  height: auto;
+  border-radius: 10px;
 }
-.CloseButton{
-    align-items: center;
-    display: block;
-    margin:10px auto;
-    background-color: #1e5002ba;
-    color: white;
+.CloseButton {
+  align-items: center;
+  display: block;
+  margin: 10px auto;
+  background-color: #1e5002ba;
+  color: white;
 }
-.Modal{
-    align-self: center;
-    display: block;
-    margin: 10px auto;
-    background-color: #1e5002ba;
-    color: white;
+.Modal {
+  align-items: center;
+  display: block;
+  margin: 10px auto;
+  background-color: #1e5002ba;
+  color: white;
 }
+
 /* style={{background: "", borderRadius:"10px", gridColumn: "span 4", boxShadow:"2px 1px 10px"}} */
 /*       <div className="DetailedContainerData" style={{margin: "20px"}}>
 <img src={plant.image } alt={plant.name} className="DetailedContainerImage" style={{ width: "200px", height: "auto", borderRadius: "10px"}}/> */
