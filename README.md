@@ -1,7 +1,7 @@
 Credits :
 https://sketchfab.com/ 
 https://bsi.gov.in/
-Collaborators:n 
+Collaborators:
 Parth Patil
 Gaurav Mishra
 Vaibhav Nemani
