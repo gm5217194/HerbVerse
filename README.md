@@ -2,7 +2,7 @@ Credits :
 https://sketchfab.com/
 https://bsi.gov.in/
 Collaborators:
-Parth PAtil
+Parth Patil
 Gaurav Mishra
 Vaibhav Nemani
 Padmashri Panda
