@@ -42,43 +42,43 @@ const plants = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6g9Qx59yZ1qjD5vOfmU5SKQiSRnOMiZYx8pqFMLxEzjPO4oV7&s",
       model: "https://sketchfab.com/models/2e37c9a50e4a45e096f3fcc1e688a6eb/embed"
   },
-  // {
-  //   id: 5,
-  //   name: "Toothpick plant",
-  //   scientificName: "Ammi visnaga (L.) Lam.",
-  //   description:"Fruits are used as mild stomachic and carminative in flatulent colic.",
-  //   image: "https://thumbs.dreamstime.com/b/toothpick-bullwort-blutenball-seed-head-latin-name-ammi-visnaga-346753899.jpg",
-  //   model: "https://sketchfab.com/models/1a3dc33b7dbc4310a0927a5eceb1d615/embed"
-  // },
-  // {
-  //   id: 6,
-  //   name: "Jonkmari",
-  //   scientificName: "Anagallis arvensis L.",
-  //   description:
-  //     " The constituent of the drug- Saatar is obtained from the leaves and stems are imported for medicinal use. The drug infusion is having diaphoretic, diuretic, stimulant, and stomachic properties and it is also given to subside premature labour pains..",
-  //   image: "https://m.media-amazon.com/images/I/61rQf6bNPKL._AC_UF350,350_QL50_.jpg",
-  //   model: "https://sketchfab.com/models/1a3dc33b7dbc4310a0927a5eceb1d615/embed"
-  // },
-  // {
-  //   id: 7,
-  //   name: "Sataar",
-  //   scientificName: "Zataria multiflora Boiss.",
-  //   description:
-  //     "  The constituent of the drug- Saatar is obtained from the leaves and stems are imported for medicinal use. The drug infusion is having diaphoretic, diuretic, stimulant, and stomachic properties and it is also given to subside premature labour pains.",
-  //   image:
-  //     "https://www.herbal-export.com/wp-content/uploads/2020/10/%D8%A2%D9%88%DB%8C%D8%B4%D9%86-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B20-1-300x200.jpg",
-  //     model: "https://sketchfab.com/models/1a3dc33b7dbc4310a0927a5eceb1d615/embed"
-  // },
-  // {
-  //   id: 8,
-  //   name: "Budu, Pand",
-  //   scientificName: "Viscum articulatum Burm",
-  //   description:
-  //     "It acts as febrifuge and paste is applied to cuts.",
-  //   image:
-  //     "https://www.researchgate.net/publication/346494517/figure/fig10/AS:963839088672770@1606808554229/Fig-14-Parasitic-benalu-Viscum-articulatum-Burmf-Viscum-articulatum-has-been-used.jpg",
-  //     model: "https://sketchfab.com/models/1a3dc33b7dbc4310a0927a5eceb1d615/embed"
-  // },
+  {
+    id: 5,
+    name: "HouseSleek Plant",
+    scientificName: "Sempervivum",
+    description:"Low-maintenance succulent known for its rosette-shaped leaves and ability to thrive in tough conditions",
+    image: "https://www.plant-lore.com/wp-content/uploads/2010/10/P1070543-scaled.jpg",
+    model: "https://sketchfab.com/models/70679a304b324ca8941c214875acf6a9/embed"
+  },
+  {
+    id: 6,
+    name: "Swiss Cheese Plant",
+    scientificName: "Monstera deliciosa",
+    description:
+      "It is a tropical beauty with large, split leaves. Popular as an indoor plant, it thrives in bright, indirect light and adds a lush, jungle vibe to any space.",
+    image: "https://www.seasol.com.au/wp-content/uploads/2021/11/iStock-1186420104-scaled.jpg",
+    model: "https://sketchfab.com/models/1f4f3d477f8e4a37a04efbcf173938a3/embed"
+  },
+  {
+    id: 7,
+    name: "Dumb Cane",
+    scientificName: "Dieffenbachia ",
+    description:
+      "It is a popular houseplant with broad, variegated leaves. While beautiful, it's toxic if ingested—causing irritation, swelling of the mouth and throat, and difficulty speaking",
+    image:
+      "https://www.planetnatural.com/wp-content/uploads/2023/09/Dieffenbachia-seguine-leaves.jpg",
+      model: "https://sketchfab.com/models/9cf12658f38341d38843278d634d45c5/embed"
+  },
+  {
+    id: 8,
+    name: "Budu, Pand",
+    scientificName: "Mentha spp",
+    description:
+      "Mint is a fast-growing, aromatic herb with bright green leaves and a refreshing scent. Commonly used in teas, cuisines, and natural remedies.",
+    image:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZTdFDBjQHaHTs-L0a9YT55CSaYHGqs9hchA&s",
+      model: "https://sketchfab.com/models/0125d1162680403aa0c57c491380615b/embed"
+  },
 ];
 
 const PlantList = () => {

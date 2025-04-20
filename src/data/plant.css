@@ -5,7 +5,11 @@
   justify-content: center;
   padding: 20px;
 }
-
+@media (max-width: 480px) {
+  .plants-container{
+    grid-template-columns: repeat(2, 2fr); /* Phones */
+  }
+}
 .plant-card {
   background: #5b913b92;
   padding: 15px;
