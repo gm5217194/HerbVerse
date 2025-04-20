@@ -29,19 +29,9 @@ const Model3D = ({ modelUrl }) => {
         execution-while-out-of-viewport
         execution-while-not-rendered
         web-share
-<<<<<<< HEAD
         src={modelUrl}
-        // src={"https://sketchfab.com/models/ad2a3704a5294dfcb93b224fc0c5a530/embed"}
-=======
-<<<<<<< HEAD
-        // src={"https://sketchfab.com/models/66c6699e50ab4863989777f920a981dd/embed?ui_theme=dark"}
-        src={"https://sketchfab.com/models/ad2a3704a5294dfcb93b224fc0c5a530/embed"}
->>>>>>> c63d13dfa926bc7bb4dc33843717712a6a11fd3f
-        width="100%"
-=======
-        src={"https://sketchfab.com/models/66c6699e50ab4863989777f920a981dd/embed?ui_theme=dark"}
+
         width="800px"
->>>>>>> 183c2f8 (Up1)
         height="400px" // Adjust height as needed
       ></iframe>
     </div>
