@@ -4,6 +4,17 @@
   grid-column: span 4;
   box-shadow: 2px 1px 10px;
 }
+@media (max-width: 480px) 
+{
+  .DetailedContainer{
+    border-radius: auto;
+    grid-column: span 2;
+  }
+  .DetailedContainerImage{
+    width: auto;
+    height: auto;
+  }
+}
 .DetailedContainerData {
   margin: 20px;
 }
