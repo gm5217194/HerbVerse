@@ -71,7 +71,7 @@ const plants = [
   },
   {
     id: 8,
-    name: "Budu, Pand",
+    name: "Mint",
     scientificName: "Mentha spp",
     description:
       "Mint is a fast-growing, aromatic herb with bright green leaves and a refreshing scent. Commonly used in teas, cuisines, and natural remedies.",
