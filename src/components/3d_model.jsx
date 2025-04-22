@@ -16,6 +16,7 @@
 //     </iframe>
 // </div>;
 import React from "react";
+import "./plantmodal.css";
 
 const Model3D = ({ modelUrl }) => {
   return (
@@ -31,8 +32,7 @@ const Model3D = ({ modelUrl }) => {
         web-share
         src={modelUrl}
         // src={"https://sketchfab.com/models/ad2a3704a5294dfcb93b224fc0c5a530/embed"}
-        width="800px"
-        height="400px" // Adjust height as needed
+         // Adjust height as needed
       ></iframe>
     </div>
   );
