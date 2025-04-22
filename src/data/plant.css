@@ -9,6 +9,11 @@
   .plants-container{
     grid-template-columns: repeat(2, 2fr); /* Phones */
   }
+  .plant-card{
+    padding: auto;
+    max-width: auto;
+  }
+  
 }
 .plant-card {
   background: #5b913b92;
