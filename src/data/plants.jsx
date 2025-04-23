@@ -24,13 +24,13 @@ const plants = [
   },
   {
     id: 3,
-    name: "Turmeric",
-    scientificName: "urcuma longa",
+    name: "Borage",
+    scientificName: "Borago officinalis",
     description:
-      " A member of the ginger family, \n turmeric's active ingredient, curcumin, is used as a food seasoning and remedy. ",
+      "Borage is an herb with vibrant blue, star-shaped flowers and hairy leaves. It’s often grown for its beauty and edible parts",
     image:
-      "https://cdn-prod.medicalnewstoday.com/content/images/articles/327/327455/turmeric-root-and-powder.jpg",
-      model: "https://sketchfab.com/models/05f6febc74134387901d7bb5aa8d2ffb/embed"
+      "https://www.allthatgrows.in/cdn/shop/products/BorageSeeds_isolated_600x600px.jpg?v=1642745400",
+      model: "https://sketchfab.com/models/48ae0b79d67548d0b19d27f26faef544/embed"
   },
   {
     id: 4,
