@@ -7,7 +7,8 @@ function App() {
   return (
     <div className="app">
       <h1>🌿HerbVerse🌿</h1>
-      <h3>The Major update will be rolled out with Home page, Better chat bot,etc. </h3>
+      <h3>The Major update will be rolled out with Home page, Better chat bot,more plants and main thing </h3>
+      <h3>the overall UI/UX will be refreshed with indroduction of Credits and Detsils, pls co-operate </h3>
       <PlantList /> {/* This will render all plant cards */}
       <FloatingChat />
     </div>
