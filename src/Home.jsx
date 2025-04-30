@@ -13,8 +13,8 @@ function Home() {
           <button>HerbVerse</button>
         </Link>
 
-        <Link to="/chatbot">
-          <button>Open AI Chatbot</button>
+        <Link to="/ar_vr">
+          <button>AR/VR</button>
         </Link>
 
         <Link to="/credits">
