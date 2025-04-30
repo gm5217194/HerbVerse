@@ -1,15 +1,10 @@
 body {
-    font-family: Arial, sans-serif;
-    background: #f0f8f5;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
-    justify-content: center;
-  }
-  
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensure the body takes up at least the full viewport height */
+  margin: 0; /* Remove default body margins */
+}
+
   h1 {
     margin-bottom: 40px;
   }
@@ -27,20 +22,12 @@ body {
     border: none;
     border-radius: 10px;
     background-color: #4CAF50;
-    color: white;
+    color: #388E3C;
     font-size: 16px;
     cursor: pointer;
     transition: background-color 0.3s ease;
-  }
-  
-  button:hover {
-    background-color: #388E3C;
-  }
-  
+  }  
   footer {
-    position: absolute;
-    bottom: 20px;
-    width: 100%;
-    text-align: center;
+    margin-top: auto; /* Push the footer to the bottom */
   }
-  
+    
