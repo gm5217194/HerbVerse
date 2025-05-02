@@ -17,7 +17,7 @@ function Home() {
           <button>AR/VR</button>
         </Link>
 
-        <Link to="/credits">
+        <Link to="/credit">
           <button>Credits & Team Info</button>
         </Link>
       </div>
