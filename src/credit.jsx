@@ -16,7 +16,7 @@ const Credit = () => {
       <div className="credits-section">
         <h2>Dataset and Research</h2>
         <ul>
-          <li>AdventureWorks2014 - Primary dataset source</li>
+          <li>Botanical Survey of India</li>
           <li>Ayurvedic & Herbal Research Papers</li>
         </ul>
       </div>
@@ -24,10 +24,10 @@ const Credit = () => {
       <div className="credits-section">
         <h2>Team Members & Roles</h2>
         <ul>
-          <li><strong>Member 1 - Name:</strong> [Research & Content Writing]</li>
-          <li><strong>Member 2 - Name:</strong> [Frontend Development]</li>
-          <li><strong>Member 3 - Name:</strong> [Database Integration]</li>
-          <li><strong>Member 4 - Name:</strong> [AI Chatbot Implementation]</li>
+          <li><a href="https://www.linkedin.com/in/mishrajeeeeee/"><strong>Gaurav Sunilkumar Mishra</strong></a> [Frontend Development & Database Integration]</li>
+          <li><strong>Parth A. Patil</strong> [AI Chatbot Implementation]</li>
+          <li><strong>Vaibhav Nemani</strong> [Research & Implemetation]</li>
+          <li><strong>Padmashri Panda</strong> [Content Writing]</li>
         </ul>
       </div>
 
@@ -35,8 +35,7 @@ const Credit = () => {
         <h2>Tools & Technologies</h2>
         <ul>
           <li>HTML/CSS</li>
-          <li>Gemini API (for AI Chatbot)</li>
-          <li>SQLite & CSV for local data</li>
+          <li>BotPress(for AI Chatbot)</li>
           <li>VS Code, Power BI, Python</li>
         </ul>
       </div>
