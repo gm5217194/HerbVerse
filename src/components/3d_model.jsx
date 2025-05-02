@@ -20,22 +20,22 @@ import "./plantmodal.css";
 
 const Model3D = ({ modelUrl }) => {
   return (
-    <div className="sketchfab-embed-wrapper">
-      <iframe
-        title="3D Plant Model"
-        allowFullScreen
-        mozallowfullscreen="true"
-        webkitallowfullscreen="true"
-        allow="autoplay; fullscreen;"
-        execution-while-out-of-viewport
-        execution-while-not-rendered
-        web-share
-        src={modelUrl}
-        // src={"https://sketchfab.com/models/ad2a3704a5294dfcb93b224fc0c5a530/embed"}
-        width="600px"
-        height="400px" // Adjust height as needed
-      ></iframe>
-    </div>
+    <div className="model-embed-wrapper">
+  <iframe
+    title="3D Plant Model"
+    src={modelUrl}
+    width="600"
+    height="400"
+    allow="autoplay; fullscreen"
+    allowFullScreen
+    mozAllowFullScreen="true"
+    webkitAllowFullScreen="true"
+    execution-while-out-of-viewport="true"
+    execution-while-not-rendered="true"
+    web-share="true"
+  ></iframe>
+</div>
+
   );
 };
 
