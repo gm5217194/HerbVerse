@@ -8,6 +8,7 @@
 @media (max-width: 480px) {
   .plants-container{
     grid-template-columns: repeat(2, 2fr); /* Phones */
+    width: auto;
   }
   .plant-card{
     padding: auto;
