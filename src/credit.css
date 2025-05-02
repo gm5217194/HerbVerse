@@ -5,6 +5,12 @@ body {
     margin: 0; /* Remove default body margins */
     min-width: 100%;
   }
+  @media (max-width: 480px) {
+    body{
+        margin: 0;
+    }
+    
+  }
 .credit-container {
     font-family: Arial, sans-serif;
     background: #5b913b92;
