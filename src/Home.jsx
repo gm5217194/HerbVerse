@@ -25,6 +25,7 @@ function Home() {
 
       <footer>
         <p>Powered By Third Year Computer Department Group 7</p>
+        <a href="https://forms.gle/2ZcgwL5WarRzpe9Q7">Feedback</a>
       </footer>
     </div>
   );
