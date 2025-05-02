@@ -16,6 +16,7 @@
 //     </iframe>
 // </div>;
 import React from "react";
+import "./plantmodal.css";
 
 const Model3D = ({ modelUrl }) => {
   return (

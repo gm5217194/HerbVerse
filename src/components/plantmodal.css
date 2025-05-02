@@ -14,6 +14,10 @@
     width: auto;
     height: auto;
   }
+  .sketchfab-embed-wrapper{
+    width: auto;
+    height: auto;
+  }
 }
 .DetailedContainerData {
   margin: 20px;
