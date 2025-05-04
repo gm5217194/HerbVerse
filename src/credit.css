@@ -62,7 +62,9 @@ body {
   .credit-container {
     padding: 20px;
     margin: auto auto; 
-    width: 80%;
+    width: 95%;
+    margin: auto auto; 
+    width: 100%;
   }
 
   .back-button {
