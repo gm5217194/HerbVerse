@@ -1,11 +1,18 @@
+/* Prevent overflow */
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; /* ✅ Prevents horizontal scroll / black line */
+}
+
 body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  margin: 0;
-  min-width: 100%;
+  width: 100%; /* ✅ Use width instead of min-width */
 }
 
+/* Container */
 .credit-container {
   font-family: Arial, sans-serif;
   background: #5b913b92;
@@ -18,10 +25,12 @@ body {
   margin: 20px auto; /* centers the container */
 }
 
+/* Headings */
 .credit-container h1 {
   color: #213547;
 }
 
+/* Sections */
 .credits-section {
   margin-bottom: 40px;
   color: #213547;
@@ -33,6 +42,7 @@ body {
   color: #213547;
 }
 
+/* Button */
 .back-button {
   display: inline-block;
   padding: 10px 20px;
@@ -47,11 +57,11 @@ body {
   background-color: #388E3C;
 }
 
-/* 📱 Responsive for phones */
+/* 📱 Mobile responsiveness */
 @media (max-width: 480px) {
   .credit-container {
     padding: 20px;
-    margin: 10px;
+    margin: 10px auto; /* Keep centered */
     width: 95%;
   }
 
