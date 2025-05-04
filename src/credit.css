@@ -61,7 +61,7 @@ body {
 @media (max-width: 480px) {
   .credit-container {
     padding: 20px;
-    margin: 10px auto; /* Keep centered */
+    margin: auto auto; 
     width: 95%;
   }
 
