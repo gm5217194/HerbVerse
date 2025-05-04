@@ -61,8 +61,8 @@ body {
 @media (max-width: 480px) {
   .credit-container {
     padding: 20px;
-    margin: 10px auto; /* Keep centered */
-    width: 95%;
+    margin: auto auto; 
+    width: 100%;
   }
 
   .back-button {
