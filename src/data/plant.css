@@ -16,6 +16,32 @@
   }
   
 }
+.plants-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  justify-content: center;
+  padding: 20px;
+}
+
+@media (max-width: 768px) {
+  .plants-container {
+    grid-template-columns: repeat(3, 1fr); /* Tablets or medium phones */
+  }
+}
+
+@media (max-width: 480px) {
+  .plants-container {
+    grid-template-columns: repeat(2, 1fr); /* Small phones */
+  }
+
+  .plant-card {
+    padding: 10px;
+    max-width: 100%;
+  }
+}
+
+
 .plant-card {
   background: #5b913b92;
   padding: 15px;
