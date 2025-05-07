@@ -59,11 +59,3 @@
   background-color: #1e5002ba;
   color: white;
 }
-
-/* style={{background: "", borderRadius:"10px", gridColumn: "span 4", boxShadow:"2px 1px 10px"}} */
-/*       <div className="DetailedContainerData" style={{margin: "20px"}}>
-<img src={plant.image } alt={plant.name} className="DetailedContainerImage" style={{ width: "200px", height: "auto", borderRadius: "10px"}}/> */
-/* style={{align: "Center", display:"block", margin:"10px auto"}} 
-style={{align: "center", display: "block", margin:"10px auto"}}
-// <div className="DetailedContainer" style={{background: "#5b913b92", borderRadius:"10px", gridColumn: "span 4", boxShadow:"2px 1px 10px", opacity:"0", maxHeight:"0", overflow: "hidden", transition:"opacity 0.5s ease,maxHeight 0.5s ease"}}>
-   */
